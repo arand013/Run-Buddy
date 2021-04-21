@@ -274,6 +274,7 @@ background-color:#024e76;
 .contact-info iframe {
   width: 400px;
   height: 400px;
+  float: left;
 }
 
 .contact-info div {
@@ -300,6 +301,12 @@ background-color:#024e76;
 .contact-info a {
   color: #fce138;
 }
+
+.contact-form {
+  
+}
+
+
 
 /* Reach out STYLES END */
 

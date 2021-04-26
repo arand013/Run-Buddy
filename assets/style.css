@@ -44,7 +44,8 @@ header nav ul {
 }
 
 header nav ul li a {
-  margin: 10px 15px;
+  padding: 10px 15px;
+
   font-weight: lighter;
   font-size: 1.55vw;
 }
@@ -378,7 +379,7 @@ background-color:#024e76;
       text-align: center;
       width: 100%;
     }  
-    .her0-cta, .hero-form {
+    .her0-cta, .her0-form {
       width: 100%;
     }
     
